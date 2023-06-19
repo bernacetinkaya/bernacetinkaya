@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Berna.
+### Hi there 👋 I'm Berna.
 
 <!--
 **bernacetinkaya/bernacetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Instagram Badge](https://www.instagram.com/bernaceetinkaya/?hl=tr)) 
-[![Medium Badge](https://medium.com/@bernacetinkayaa01)
-[![Linkedin Badge](https://www.linkedin.com/in/berna-nur-cetinkaya/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/bernaceetinkaya/?hl=tr)) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@bernacetinkayaa01)
